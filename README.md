@@ -1,7 +1,8 @@
 # Analysis of News Title and Body to Detect Fake News
 
 This repository contains the code for the paper 
-Textual Characteristics of News Title and Bodyto Detect Fake News: A Reproducibility Study
+"Textual Characteristics of News Title and Bodyto Detect Fake News: A Reproducibility Study"
+
 
 # Data Sources
 BuzzFeedNews dataset is available at https://zenodo.org/record/1239675#.X5riw0JKgXA (Download Article.zip)
