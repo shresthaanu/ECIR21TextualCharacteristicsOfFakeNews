@@ -24,10 +24,12 @@ For the details about how to download the dataset that we have used in paper, pl
 # Citation
 If you use our code please cite our work.
 
-{
+```{
 
 author = Anu Shrestha and Francesca Spezzano
+
 title = Textual Characteristics of News Title and Bodyto Detect Fake News: A Reproducibility Study
+
 Submitted at = Proceedings of 43rd European Conference on Information Retrieval
 
-}
+}```
