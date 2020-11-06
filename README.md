@@ -13,23 +13,21 @@ For the details about how to download the dataset that we have used in paper, pl
 
 # Content
 
-* Script to generate LIWC features : step1_liwc_features.ipynb
-* Script to generate complexity, stylistic and emotion features : step2_extract_complexity_emotion_and_stylistic_features.ipynb
-* Script to merge all features including LIWC and remaining features (complexity, stylistci, emotion) : step3_combine_LIWC_and_remaining_features.ipynb
-* Script for statistical test (one way ANOVA and Wilcoxon rank sum test) : step4_statistical_test.ipynb
-* Script for performing classification and reproduce all the results of paper : step5_classification.ipynb
-* Helper files: emotion_features.py, liwc_features.py, redability.py, statistical_test.py
+* Script to generate LIWC features : ```step1_liwc_features.ipynb```
+* Script to generate complexity, stylistic and emotion features : ```step2_extract_complexity_emotion_and_stylistic_features.ipynb```
+* Script to merge all features including LIWC and remaining features (complexity, stylistci, emotion) : ```step3_combine_LIWC_and_remaining_features.ipynb```
+* Script for statistical test (one way ANOVA and Wilcoxon rank sum test) : ```step4_statistical_test.ipynb```
+* Script for performing classification and reproduce all the results of paper : ```step5_classification.ipynb```
+* Helper files: ```emotion_features.py```, ```liwc_features.py```, ```redability.py```, ```statistical_test.py```
 
 
 # Citation
 If you use our code please cite our work.
 
 ```{
-
 author = Anu Shrestha and Francesca Spezzano
 
 title = Textual Characteristics of News Title and Bodyto Detect Fake News: A Reproducibility Study
 
 Submitted at = Proceedings of 43rd European Conference on Information Retrieval
-
-}```
+}
