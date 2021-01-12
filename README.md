@@ -9,7 +9,7 @@ BuzzFeedNews dataset is available at https://zenodo.org/record/1239675#.X5riw0JK
 
 FakeNewsNet (Politifact and Gossipcop) dataset can be downloaded using the code provided at https://github.com/KaiDMML/FakeNewsNet
 
-For the details about how to download the dataset that we have used in paper, please follow the instructions provided here https://github.com/shresthaanu/FakeNewsDetectionViaHeadline/tree/main/Data
+For the details about how to download the dataset that we have used in paper, please follow the instructions provided here https://github.com/shresthaanu/ECIR21TextualCharacteristicsOfFakeNews/tree/main/Data
 
 # Content
 
