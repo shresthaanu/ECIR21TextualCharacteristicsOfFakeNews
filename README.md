@@ -25,8 +25,9 @@ For the details about how to download the dataset that we have used in paper, pl
 If you use our code please cite our work.
 
 ```{ 
-author = Anu Shrestha and Francesca Spezzano
-
-title = Textual Characteristics of News Title and Bodyto Detect Fake News: A Reproducibility Study
-
-Submitted at = Proceedings of 43rd European Conference on Information Retrieval 
+@InProceedings{Shrestha_ECIR21,
+  author    = {Anu Shrestha and Francesca Spezzano},
+  title     = {{Textual Characteristics of News Title and Body to Detect Fake News: A Reproducibility Study}},
+  booktitle = {{Proceedings of the 43rd European Conference on Information Retrieval}},
+  year      = {2021}
+  } 
