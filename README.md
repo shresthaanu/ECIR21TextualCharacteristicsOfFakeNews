@@ -31,4 +31,3 @@ If you use our code please cite our work.
   booktitle = {{Proceedings of the 43rd European Conference on Information Retrieval}},
   year      = {2021}
   } 
-  } 
