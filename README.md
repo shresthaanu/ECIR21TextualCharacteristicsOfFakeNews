@@ -25,9 +25,12 @@ For the details about how to download the dataset that we have used in paper, pl
 If you use our code please cite our work.
 
 ```{ 
-@InProceedings{Shrestha_ECIR21,
-  author    = {Anu Shrestha and Francesca Spezzano},
-  title     = {{Textual Characteristics of News Title and Body to Detect Fake News: A Reproducibility Study}},
-  booktitle = {{Proceedings of the 43rd European Conference on Information Retrieval}},
-  year      = {2021}
+@inproceedings{shrestha2021textual,
+  title={Textual characteristics of news title and body to detect fake news: a reproducibility study},
+  author={Shrestha, Anu and Spezzano, Francesca},
+  booktitle={European Conference on Information Retrieval},
+  pages={120--133},
+  year={2021},
+  organization={Springer}
+  }
   } 
