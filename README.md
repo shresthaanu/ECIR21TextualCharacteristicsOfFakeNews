@@ -33,4 +33,3 @@ If you use our code please cite our work.
   year={2021},
   organization={Springer}
   }
-  } 
